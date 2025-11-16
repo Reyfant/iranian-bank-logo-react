@@ -1,8 +1,9 @@
 declare module "iranian-bank-logo-react" {
     import * as React from "react";
 
+
     export interface IranianBankProps {
-        name: string;
+        name: "ir-blu" | "...";
         size?: number;
         [key: string]: any;
     }
