@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const iconsDir = path.join(__dirname, 'icons');
-const outFile = path.join(__dirname, 'index.d.ts');
+const iconsDir = path.join(__dirname, '..', 'icons');
+const outFile = path.join(__dirname, '..','index.d.ts');
 
 const files = fs.readdirSync(iconsDir)
     .filter(f => f.endsWith('.svg'))
