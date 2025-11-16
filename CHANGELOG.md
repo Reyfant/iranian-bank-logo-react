@@ -38,3 +38,7 @@
 ## [1.0.2] - 2025-11-16
 ### Fixed bug
 - Fixed load icons on react
+
+## [1.0.3] - 2025-11-16
+### Changed
+- Change Blu icon
