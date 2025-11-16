@@ -1,5 +1,5 @@
 {
-  "name": "@cyberhuginn/iranian-bank-logo-react",
+  "name": "iranian-bank-logo-react",
   "version": "1.0.0",
   "description": "Iranian bank logos for React and Next.js",
   "main": "dist/index.js",
