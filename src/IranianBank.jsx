@@ -8,7 +8,18 @@ const IranianBank = ({name, size = 20, ...rest}) => {
 
     if (!Icon) {
         console.error(`Icon "${name}" not found.`);
-        return null;
+        const Icon = iconMap['unknown'];
+        const src = Icon?.default || Icon;
+        return (
+            <img
+                src={src}
+                width={size}
+                height={size}
+                style={{width: `${size}px`, height: `${size}px`}}
+                alt={name}
+                {...rest}
+            />
+        );
     }
 
 

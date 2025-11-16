@@ -8,7 +8,8 @@ const files = fs.readdirSync(iconsDir)
     .filter(f => f.endsWith('.svg'))
     .map(f => path.basename(f, '.svg'));
 
-const names = files.map(name => `"${name}"`).join(' | ');
+let names = files.map(name => `"${name}"`).join(' | ');
+names = names + ' | string | null';
 
 const content = `declare module "iranian-bank-logo-react" {
     import * as React from "react";

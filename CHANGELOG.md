@@ -50,3 +50,7 @@
 ## [1.0.5] - 2025-11-16
 ### Fix Bug
 - Fix dir paths.
+
+## [1.0.6] - 2025-11-17
+### Added
+- string type for name added.
