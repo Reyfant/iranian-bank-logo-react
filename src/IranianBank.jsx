@@ -1,3 +1,4 @@
+'use client'
 import React from "react";
 
 const IranianBank = ({ name, size = 20, ...rest }) => {

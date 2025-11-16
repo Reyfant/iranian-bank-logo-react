@@ -5,12 +5,22 @@
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
-    "build": "babel src --out-dir dist --extensions .js,.jsx",
+    "build": "babel src --out-dir dist --extensions .js,.jsx && npm run copy-icons",
+    "copy-icons": "copyfiles -u 2 src/icons/*.svg dist/icons",
     "dev": "npm run build -- --watch"
   },
-  "keywords": ["iran", "bank", "logo", "react", "nextjs", "icons"],
+  "keywords": [
+    "iran",
+    "bank",
+    "logo",
+    "react",
+    "nextjs",
+    "icons"
+  ],
   "author": "CyberHuginn",
   "license": "MIT",
   "peerDependencies": {
@@ -22,5 +32,8 @@
     "@babel/core": "^7.24.0",
     "@babel/preset-env": "^7.24.0",
     "@babel/preset-react": "^7.24.0"
+  },
+  "dependencies": {
+    "copyfiles": "^2.4.1"
   }
 }
