@@ -1,6 +1,9 @@
-# iranian-bank-logo-react
+# Iranian Bank Logo React/Next-js (لوگو بانک های ایرانی)
 
+![TypeScript](https://img.shields.io/badge/TypeScript-Yes-blue.svg)
+[![Releases](https://img.shields.io/github/v/release/cyberhuginn/iranian-bank-logo-react)](https://github.com/cyberhuginn/iranian-bank-logo-react/releases)
 ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
+
 
 Iranian bank logos for **React** and **Next.js**.  
 Supports **client-only rendering**, customizable **size**, and works out-of-the-box with Next.js.
