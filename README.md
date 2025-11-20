@@ -8,7 +8,8 @@
 Iranian bank logos for **React** and **Next.js**.  
 Supports **client-only rendering**, customizable **size**, and works out-of-the-box with Next.js.
 
-![med.jpg](https://raw.githubusercontent.com/cyberhuginn/iranian-bank-logo-react/refs/heads/main/med.jpg)
+
+![med.jpg](https://raw.githubusercontent.com/cyberhuginn/iranian-bank-logo-react/refs/heads/main/banner.jpg "لوگو بانک های ایرانی")
 ---
 
 ## repo
