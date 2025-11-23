@@ -10,9 +10,15 @@ Supports **client-only rendering**, customizable **size**, and works out-of-the-
 
 
 ![banner.jpg](https://raw.githubusercontent.com/cyberhuginn/iranian-bank-logo-react/refs/heads/main/banner.jpg)
+
+
 ---
 
-## repo
+## Demo
+
+https://cyberhuginn.github.io/iranian-bank-logo-react/
+
+## Sources
 
 Github: https://github.com/cyberhuginn/iranian-bank-logo-react.git  
 Npm: https://www.npmjs.com/package/iranian-bank-logo-react
